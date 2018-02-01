@@ -1,3 +1,3 @@
 # Snake
 
-> The project is just a practice for programming. 
+The project is just a practice for programming. 
